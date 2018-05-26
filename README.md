@@ -1,6 +1,6 @@
 # Cursed Python
 ## Animated game using `curses`
-### By [PythonLove.com] and Jean Paul
+### By [PythonLove.com](http://pythonlove.com) and Jean Paul
 
 This game is a _proof of concept_. You can create interesting games in your terminal. A lot of people think you need `tkinter` and stuff. But, erm...
 
